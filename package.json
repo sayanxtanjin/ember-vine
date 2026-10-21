@@ -1,0 +1,16 @@
+{
+  "name": "ember-vine-site",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "dev": "npx netlify-cli dev",
+    "deploy:preview": "npx netlify-cli deploy",
+    "deploy": "npx netlify-cli deploy --prod"
+  },
+  "dependencies": {
+    "@netlify/blobs": "^11.1.4"
+  }
+}
