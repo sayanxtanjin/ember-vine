@@ -1,0 +1,2 @@
+/* Page-specific stylesheet for Order confirmation. Shared components are in ../app.css. */
+body[data-page="order"] #app { scroll-margin-top: 72px; }

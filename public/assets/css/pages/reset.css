@@ -1,0 +1,2 @@
+/* Page-specific stylesheet for Reset password. Shared components are in ../app.css. */
+body[data-page="reset"] #app { scroll-margin-top: 72px; }

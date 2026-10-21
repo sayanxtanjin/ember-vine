@@ -1,0 +1,2 @@
+/* Page-specific stylesheet for Customers. Shared components are in ../app.css. */
+body[data-page="admin-customers"] #app { scroll-margin-top: 72px; }

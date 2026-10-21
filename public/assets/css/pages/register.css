@@ -1,0 +1,2 @@
+/* Page-specific stylesheet for Create account. Shared components are in ../app.css. */
+body[data-page="register"] #app { scroll-margin-top: 72px; }

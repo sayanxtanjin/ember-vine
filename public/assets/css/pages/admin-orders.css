@@ -1,0 +1,2 @@
+/* Page-specific stylesheet for All orders. Shared components are in ../app.css. */
+body[data-page="admin-orders"] #app { scroll-margin-top: 72px; }

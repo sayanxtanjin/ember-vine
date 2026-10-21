@@ -1,0 +1,2 @@
+/* Page-specific stylesheet for Reports. Shared components are in ../app.css. */
+body[data-page="admin-reports"] #app { scroll-margin-top: 72px; }

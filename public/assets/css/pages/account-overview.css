@@ -1,0 +1,2 @@
+/* Page-specific stylesheet for Account overview. Shared components are in ../app.css. */
+body[data-page="account-overview"] #app { scroll-margin-top: 72px; }

@@ -1,0 +1,2 @@
+/* Page-specific stylesheet for Admin overview. Shared components are in ../app.css. */
+body[data-page="admin-overview"] #app { scroll-margin-top: 72px; }

@@ -1,0 +1,2 @@
+/* Page-specific stylesheet for Users and roles. Shared components are in ../app.css. */
+body[data-page="admin-users"] #app { scroll-margin-top: 72px; }

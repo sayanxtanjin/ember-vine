@@ -1,0 +1,2 @@
+/* Page-specific stylesheet for Manager dashboard. Shared components are in ../app.css. */
+body[data-page="manager-board"] #app { scroll-margin-top: 72px; }

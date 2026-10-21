@@ -1,0 +1,2 @@
+/* Page-specific stylesheet for Forgot password. Shared components are in ../app.css. */
+body[data-page="forgot"] #app { scroll-margin-top: 72px; }

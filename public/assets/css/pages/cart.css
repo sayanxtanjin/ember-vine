@@ -1,0 +1,2 @@
+/* Page-specific stylesheet for Cart. Shared components are in ../app.css. */
+body[data-page="cart"] #app { scroll-margin-top: 72px; }

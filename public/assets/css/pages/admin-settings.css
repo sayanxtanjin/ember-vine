@@ -1,0 +1,2 @@
+/* Page-specific stylesheet for Site settings. Shared components are in ../app.css. */
+body[data-page="admin-settings"] #app { scroll-margin-top: 72px; }

@@ -1,0 +1,2 @@
+/* Page-specific stylesheet for Menu categories. Shared components are in ../app.css. */
+body[data-page="admin-categories"] #app { scroll-margin-top: 72px; }

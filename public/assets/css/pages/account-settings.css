@@ -1,0 +1,2 @@
+/* Page-specific stylesheet for Account settings. Shared components are in ../app.css. */
+body[data-page="account-settings"] #app { scroll-margin-top: 72px; }

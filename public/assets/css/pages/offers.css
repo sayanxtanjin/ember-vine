@@ -1,0 +1,2 @@
+/* Page-specific stylesheet for Offers. Shared components are in ../app.css. */
+body[data-page="offers"] #app { scroll-margin-top: 72px; }

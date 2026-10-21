@@ -1,0 +1,2 @@
+/* Page-specific stylesheet for Website content. Shared components are in ../app.css. */
+body[data-page="admin-content"] #app { scroll-margin-top: 72px; }

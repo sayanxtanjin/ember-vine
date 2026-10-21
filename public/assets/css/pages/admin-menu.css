@@ -1,0 +1,2 @@
+/* Page-specific stylesheet for Menu management. Shared components are in ../app.css. */
+body[data-page="admin-menu"] #app { scroll-margin-top: 72px; }

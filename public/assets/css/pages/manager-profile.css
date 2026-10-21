@@ -1,0 +1,2 @@
+/* Page-specific stylesheet for Manager profile. Shared components are in ../app.css. */
+body[data-page="manager-profile"] #app { scroll-margin-top: 72px; }

@@ -1,0 +1,2 @@
+/* Page-specific stylesheet for Checkout. Shared components are in ../app.css. */
+body[data-page="checkout"] #app { scroll-margin-top: 72px; }

@@ -1,0 +1,2 @@
+/* Page-specific stylesheet for Branch management. Shared components are in ../app.css. */
+body[data-page="admin-branches"] #app { scroll-margin-top: 72px; }

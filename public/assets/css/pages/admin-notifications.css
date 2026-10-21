@@ -1,0 +1,2 @@
+/* Page-specific stylesheet for Admin notifications. Shared components are in ../app.css. */
+body[data-page="admin-notifications"] #app { scroll-margin-top: 72px; }

@@ -1,0 +1,2 @@
+/* Page-specific stylesheet for Your reviews. Shared components are in ../app.css. */
+body[data-page="account-reviews"] #app { scroll-margin-top: 72px; }

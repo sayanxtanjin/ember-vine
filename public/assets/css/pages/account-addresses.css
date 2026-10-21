@@ -1,0 +1,2 @@
+/* Page-specific stylesheet for Your addresses. Shared components are in ../app.css. */
+body[data-page="account-addresses"] #app { scroll-margin-top: 72px; }

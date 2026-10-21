@@ -1,0 +1,2 @@
+/* Page-specific stylesheet for Branches. Shared components are in ../app.css. */
+body[data-page="branches"] #app { scroll-margin-top: 72px; }

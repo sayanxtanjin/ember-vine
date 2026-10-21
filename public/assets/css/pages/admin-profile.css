@@ -1,0 +1,2 @@
+/* Page-specific stylesheet for Admin profile. Shared components are in ../app.css. */
+body[data-page="admin-profile"] #app { scroll-margin-top: 72px; }

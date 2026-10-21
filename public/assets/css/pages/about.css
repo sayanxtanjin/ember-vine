@@ -1,0 +1,2 @@
+/* Page-specific stylesheet for About. Shared components are in ../app.css. */
+body[data-page="about"] #app { scroll-margin-top: 72px; }

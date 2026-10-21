@@ -1,0 +1,2 @@
+/* Page-specific stylesheet for Branch orders. Shared components are in ../app.css. */
+body[data-page="manager-orders"] #app { scroll-margin-top: 72px; }

@@ -1,0 +1,2 @@
+/* Page-specific stylesheet for Audit log. Shared components are in ../app.css. */
+body[data-page="admin-audit"] #app { scroll-margin-top: 72px; }

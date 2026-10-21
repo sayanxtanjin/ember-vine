@@ -1,0 +1,2 @@
+/* Page-specific stylesheet for Menu. Shared components are in ../app.css. */
+body[data-page="menu"] #app { scroll-margin-top: 72px; }

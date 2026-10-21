@@ -1,0 +1,2 @@
+/* Page-specific stylesheet for Your favorites. Shared components are in ../app.css. */
+body[data-page="account-favorites"] #app { scroll-margin-top: 72px; }
